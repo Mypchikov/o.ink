@@ -17,7 +17,7 @@ export default function Home() {
                     ø.ink created by <b className="text-accent">@murchikov</b>
                 </p>
                 <p className="text-white/50 text-xs md:text-sm mt-2">
-                for anything things.
+                  for me.
                 </p>
             </div>
         <div className="flex gap-1 items-center flex-col sm:flex-row">
